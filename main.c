@@ -13,7 +13,8 @@ void showMenu()
     printf("6. Edit Course Result\n");
     printf("7. Delete Course Result\n");
     printf("8. View Marksheet\n");
-    printf("9. Exit\n");
+    printf("9. Calculate Required GPA\n");
+    printf("10. Exit\n");
     printf("Enter Choice: ");
 }
 
